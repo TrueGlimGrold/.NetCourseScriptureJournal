@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorPagesScriptureJournal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc47b6001e0b826a5fae72f9bbb1c282878b9639")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorPagesScriptureJournal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorPagesScriptureJournal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

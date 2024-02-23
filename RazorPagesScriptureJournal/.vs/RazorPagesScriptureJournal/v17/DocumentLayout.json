@@ -3,20 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Models\\Scripture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Scripture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\models\\scripture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:models\\scripture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\RazorPagesScriptureJournal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPagesScriptureJournal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\RazorPagesScriptureJournal.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPagesScriptureJournal.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Migrations\\20240223001349_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240223001349_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\pages\\scriptures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:pages\\scriptures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\repositories\\.netcoursescripturejournal\\razorpagesscripturejournal\\data\\razorpagesscripturejournalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABE209-E95A-468B-A8BF-066B69822388}|RazorPagesScriptureJournal.csproj|solutionrelative:data\\razorpagesscripturejournalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +70,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T23:40:36.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RazorPagesScriptureJournal.csproj.user",
-              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\RazorPagesScriptureJournal.csproj.user",
-              "RelativeDocumentMoniker": "RazorPagesScriptureJournal.csproj.user",
-              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\RazorPagesScriptureJournal.csproj.user",
-              "RelativeToolTip": "RazorPagesScriptureJournal.csproj.user",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-02-22T23:38:12.008Z",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T00:21:05.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Scripture.cs",
-              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Models\\Scripture.cs",
-              "RelativeDocumentMoniker": "Models\\Scripture.cs",
-              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Models\\Scripture.cs",
-              "RelativeToolTip": "Models\\Scripture.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Scriptures\\Index.cshtml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T21:36:53.998Z",
+              "WhenOpened": "2024-02-23T00:12:04.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RazorPagesScriptureJournal.csproj",
-              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\RazorPagesScriptureJournal.csproj",
-              "RelativeDocumentMoniker": "RazorPagesScriptureJournal.csproj",
-              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\RazorPagesScriptureJournal.csproj",
-              "RelativeToolTip": "RazorPagesScriptureJournal.csproj",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Scriptures\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T00:12:04.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Scriptures\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T00:12:04.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scripture.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Models\\Scripture.cs",
+              "RelativeDocumentMoniker": "Models\\Scripture.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Models\\Scripture.cs",
+              "RelativeToolTip": "Models\\Scripture.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-22T21:36:54.001Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T00:08:25.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240223001349_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Migrations\\20240223001349_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240223001349_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Migrations\\20240223001349_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240223001349_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T00:13:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Scriptures\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T00:12:04.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Scriptures\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T00:12:04.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Scriptures\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T00:12:04.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T00:12:03.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Scriptures\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T00:12:04.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Scriptures\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T00:12:04.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Scriptures\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T00:12:04.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Scriptures\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Pages\\Scriptures\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Scriptures\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T00:12:03.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RazorPagesScriptureJournalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Data\\RazorPagesScriptureJournalContext.cs",
+              "RelativeDocumentMoniker": "Data\\RazorPagesScriptureJournalContext.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Repositories\\.NetCourseScriptureJournal\\RazorPagesScriptureJournal\\Data\\RazorPagesScriptureJournalContext.cs",
+              "RelativeToolTip": "Data\\RazorPagesScriptureJournalContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T00:12:03.751Z",
               "EditorCaption": ""
             }
           ]

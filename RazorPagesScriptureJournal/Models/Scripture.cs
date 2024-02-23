@@ -4,8 +4,7 @@ namespace RazorPagesScriptureJournal.Models
 {
     public class Scripture
     {
-        public int Id { get; set; }
-        public string? Title { get; set; }
+        public int ID { get; set; }
 
         [StringLength(60, MinimumLength = 3)]
         [Required]
