@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -38,7 +39,7 @@ namespace RazorPagesScriptureJournal.Pages.Scriptures
         [BindProperty(SupportsGet = true)]
         public string? ScriptureKeyword { get; set; }
 
-        public async Task OnGetAsync()
+        public async Task OnGetAsync(string? sortBy)
         {
             IQueryable<string> keywordQuery = from m in _context.Scripture
                                             orderby m.Keywords
@@ -65,6 +66,24 @@ namespace RazorPagesScriptureJournal.Pages.Scriptures
             Keywords = new SelectList(await keywordQuery.Distinct().ToListAsync());
 
             Books = new SelectList(await bookQuery.Distinct().ToListAsync());
+
+            if (!string.IsNullOrEmpty(sortBy))
+            {
+                switch (sortBy.ToLower())
+                {
+                    case "book":
+                        scriptures = scriptures.OrderBy(s => s.Book);
+                        break;
+                    case "keyword":
+                        scriptures = scriptures.OrderBy(s => s.Keywords);
+                        break;
+                    case "dateadded":
+                        scriptures = scriptures.OrderBy(s => s.DateAdded);
+                        break;
+                    default:
+                        break;
+                }
+            }
 
             Scripture = await scriptures.ToListAsync();
         }
